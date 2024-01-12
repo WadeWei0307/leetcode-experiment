@@ -45,6 +45,6 @@
 <hr>
 <h3>Time complexity</h3><hr>
 <p>
-1. The best sort is <strong>O(nlogn)</strong>.
+1. Go through the symbol string, so is <strong>O(n)</strong>.
 </p>
 </div>
