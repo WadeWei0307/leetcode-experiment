@@ -30,8 +30,8 @@
 <hr>
 <h3>Time complexity</h3><hr>
 <p>
-1. The best sort is <strong>O(nlogn)</strong>.
-2. Compare each character of string is <strong>O(n)</strong>.
-3. So, final time complexity is <strong>O(nlogn)</strong>.
+<p>1. The best sort is <strong>O(nlogn)</strong>. <br> </p>
+<p>2. Compare each character of string is <strong>O(n)</strong>. <br> </p>
+<p>3. So, final time complexity is <strong>O(nlogn)</strong>. </p>
 </p>
 </div>
