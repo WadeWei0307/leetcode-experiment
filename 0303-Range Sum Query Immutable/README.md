@@ -40,7 +40,7 @@ numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
 <hr>
 <h3>Thinking</h3><hr>
 <p>
-1. Using another vector which element represent 0~i summation.
+1. Using another vector which element represent 0~i summation. </p>
 2. Can get every range of summation by substraction from another vector.
 </p>
 <hr>
