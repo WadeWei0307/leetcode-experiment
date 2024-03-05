@@ -19,6 +19,7 @@ Welcome to a repository of Wade LeetCode experiment! This repository is shared f
 |:--:|:-----:|:------:|:-----------:|:--------:|
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./0001-Two%20Sum/Two%20Sum.cpp)|Array, Hash table|[Easy](./0001-Two%20Sum/README.md)
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./0002-Add%20Two%20Numbers/Add%20Two%20Numbers.cpp)|Linked list|[Medium](./0002-Add%20Two%20Numbers/README.md)
+|0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./0003-Longest%20Substring%20Without%20Repeating%20Characters/0003-Longest%20Substring%20Without%20Repeating%20Characters.cpp)|Hash table|[Medium](./0003-Longest%20Substring%20Without%20Repeating%20Characters/README.md)
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./0009-Palindrome%20Number/0009-Palindrome%20Number.cpp)|Math|[Easy](./0009-Palindrome%20Number/README.md)
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](./0011-Container%20With%20Most%20Water/0011-Container%20With%20Most%20Water.cpp)|Two Pointers|[Easy](./0011-Container%20With%20Most%20Water/README.md)
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./0013-Roman%20to%20Integer/0013-roman-to-integer.cpp)|Hash table|[Easy](./0013-Roman%20to%20Integer/README.md)
