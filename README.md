@@ -31,6 +31,7 @@ Welcome to a repository of Wade LeetCode experiment! This repository is shared f
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./0027-Remove%20Element/0027-Remove%20Element.cpp)|Array|[Easy](./0027-Remove%20Element/README.md)
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[C++](./0028-Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/0028-Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)|Two Pointers|[Easy](./0028-Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/README.md)
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./0035-Search%20Insert%20Position/0035-Search%20Insert%20Position.cpp)|Binary Search|[Easy](./0035-Search%20Insert%20Position/README.md)
+|0046|[Permutations](https://leetcode.com/problems/permutations/)|[C++](./0046-Permutations/0046-Permutations.cpp)|Recursion|[Medium](./0046-Permutations/README.md)
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./0049-Group%20Anagrams/0049-Group%20Anagrams.cpp)|Hash table, String|[Medium](./0049-Group%20Anagrams/README.md)
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./0062-Unique%20Paths/0062-Unique%20Paths.cpp)|Math, DP|[Medium](./0062-Unique%20Paths/README.md)
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./0066-Plus%20One/0066-Plus%20One.cpp)|Array|[Easy](./0066-Plus%20One/README.md)
