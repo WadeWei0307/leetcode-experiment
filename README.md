@@ -33,6 +33,7 @@ Welcome to a repository of Wade LeetCode experiment! This repository is shared f
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./0035-Search%20Insert%20Position/0035-Search%20Insert%20Position.cpp)|Binary Search|[Easy](./0035-Search%20Insert%20Position/README.md)
 |0046|[Permutations](https://leetcode.com/problems/permutations/)|[C++](./0046-Permutations/0046-Permutations.cpp)|Recursion|[Medium](./0046-Permutations/README.md)
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./0049-Group%20Anagrams/0049-Group%20Anagrams.cpp)|Hash table, String|[Medium](./0049-Group%20Anagrams/README.md)
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./0053-Maximum%20Subarray/0053-Maximum%20Subarray.cpp)|Divide and Conquer|[Medium](./0053-Maximum%20Subarray/README.md)
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./0062-Unique%20Paths/0062-Unique%20Paths.cpp)|Math, DP|[Medium](./0062-Unique%20Paths/README.md)
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./0066-Plus%20One/0066-Plus%20One.cpp)|Array|[Easy](./0066-Plus%20One/README.md)
 |0069|[Sqrt](https://leetcode.com/problems/sqrtx/)|[C++](./0069-Sqrt/Sqrt.cpp)|Binary Search|[Easy](./0069-Sqrt/README.md)
