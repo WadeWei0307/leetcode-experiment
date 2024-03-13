@@ -34,6 +34,7 @@
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.</p>
 </div>
+<h3>Thinking</h3><hr>
 <p>
 1. If summation of previous element plus current element is not bigger than current element, than the head of subarray is the current element.<br> 
 </p>
