@@ -55,6 +55,7 @@ Welcome to a repository of Wade LeetCode experiment! This repository is shared f
 |0169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./0169-Majority%20Element/0169-Majority%20Element.cpp)|Array|[Easy](./0169-Majority%20Element/README.md)
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./0217-Contains%20Duplicate/0217-Contains%20Duplicate.cpp)|Hash table|[Easy](./0217-Contains%20Duplicate/README.md)
 |0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./0219-Contains%20Duplicate%20II/0219-Contains%20Duplicate%20II.cpp)|Hash table|[Easy](./0219-Contains%20Duplicate%20II/README.md)
+|0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./0226-Invert%20Binary%20Tree/0226-Invert%20Binary%20Tree.cpp)|DFS, Recursive|[Easy](./0226-Invert%20Binary%20Tree/README.md)
 |0228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](./0228-Summary%20Ranges/0228-Summary%20Ranges.cpp)|Array|[Easy](./0228-Summary%20Ranges/README.md)
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./0268-Missing%20Number/0268-Missing%20Number.cpp)|Math|[Easy](./0268-Missing%20Number/README.md)
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./0283-Move%20Zeroes/0283-Move%20Zeroes.cpp)|Two Pointers|[Easy](./0283-Move%20Zeroes/README.md)
