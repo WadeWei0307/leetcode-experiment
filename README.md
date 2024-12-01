@@ -39,6 +39,7 @@ Welcome to a repository of Wade LeetCode experiment! This repository is shared f
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./0066-Plus%20One/0066-Plus%20One.cpp)|Array|[Easy](./0066-Plus%20One/README.md)
 |0069|[Sqrt](https://leetcode.com/problems/sqrtx/)|[C++](./0069-Sqrt/Sqrt.cpp)|Binary Search|[Easy](./0069-Sqrt/README.md)
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./0070-Climbing%20Stairs/0070-Climbing%20Stairs.cpp)|DP|[Easy](./0070-Climbing%20Stairs/README.md)
+|0078|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./0078-SubSets/0078-SubSets.cpp)|Bit Manipulation|[Medium](./0078-SubSets/README.md)
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./0088-Merge%20Sorted%20Array/0088-Merge%20Sorted%20Array.cpp)|Two Pointers|[Easy](./0088-Merge%20Sorted%20Array/README.md)
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./0094-Binary%20Tree%20Inorder%20Traversal/0094-Binary%20Tree%20Inorder%20Traversal.cpp)|DFS, Recursive|[Easy](./0094-Binary%20Tree%20Inorder%20Traversal/README.md)
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./0101-Symmetric%20Tree/0101-Symmetric%20Tree.cpp)|DFS|[Easy](./0101-Symmetric%20Tree/README.md)
